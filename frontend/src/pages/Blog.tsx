@@ -1,4 +1,4 @@
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Appbar from "../components/Appbar";
 import { useBlog } from "../hooks";
 import { useEffect } from "react";
