@@ -1,0 +1,6 @@
+name = "week-13-backend"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiODFkZGJhMzktMzcyNy00Yjc3LTkyMmEtZWE2YmE5ODM1MWM2IiwidGVuYW50X2lkIjoiYWIyNzE3YmNmZGM0NGNiZjAwMzMzMWMzYzFkYzRhZGViMDUxOGY5ZmY2Y2U1MWExNDgxNWE5NDllYjc4NmEzOSIsImludGVybmFsX3NlY3JldCI6IjkzZDMxYjQ1LWY0NGEtNDlhZC1iNWZhLTkzMmNmNTJhNTYwNyJ9.bOuj7QzSdZn1M6Yn1ruyrtu_cIJlqmXGXyqK4QhKV0U"
+JWT_SECRET="verySecret"
